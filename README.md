@@ -2,8 +2,7 @@
 A bash script utility to clone all repositories in a Github user's repository collection
 
 ## How To Install
-
-. Download "GetRepo.sh"
+* Download "GetRepo.sh"
     chmod +x ./GetRepo.sh
     
 
