@@ -3,5 +3,5 @@ A bash script utility to clone all repositories in a Github user's repository co
 
 ## Usage
 
-'''chmod +x ./GetRepo.sh'''
-'''./GetRepo.sh <Username>'''
+  chmod +x ./GetRepo.sh
+  ./GetRepo.sh <Username>
