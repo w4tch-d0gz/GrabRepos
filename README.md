@@ -4,12 +4,11 @@ A bash script utility to clone all repositories in a Github user's repository co
 ## How To Install
 * Download "GetRepo.sh"
 
-    cd PARENT_DIRECTORY_OF_SCRIPT
-    
+       cd PATH_TO PARENT_FOLDER
 
  Now Run:
  
-    chmod +x ./GetRepo.sh
+        chmod +x ./GetRepo.sh
     
 
 ## Usage
